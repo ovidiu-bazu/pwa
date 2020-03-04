@@ -20,5 +20,18 @@
         "/assets/**"
       ]
     }
-  }]
+  }],
+  "dataGroups": [
+    {
+      "name": "lessons-api",
+      "urls": ["/api/lessons"
+      ],
+      "cacheConfig": {
+        "strategy": "performance",
+        "timeout": "10s",
+        "maxAge": "1d",
+        "maxSize": 100
+      }
+    }
+  ]
 }

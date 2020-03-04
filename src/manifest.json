@@ -7,7 +7,7 @@
   "start_url": "http://localhost:8080/",
   "short_name": "PWA",
   "theme_color": "transparent",
-  "description": "Learn and Keep Up With The Angular Ecosystem",
+  "description": "PWA online",
   "orientation": "any",
   "background_color": "transparent",
   "related_applications": [],
@@ -15,7 +15,7 @@
   "icons": [
     {
       "src": "/favicon.ico",
-      "sizes": "16x16 32x32"
+      "sizes": "16x16"
     },
     {
       "src": "/assets/android-icon-36x36.png",
